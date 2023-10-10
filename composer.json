@@ -1,0 +1,11 @@
+{
+    "name": "admin/php_composer-14.09",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
